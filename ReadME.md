@@ -31,3 +31,11 @@ memory-game/
 ├── index.html         # Estrutura HTML
 ├── style.css          # Estilos CSS
 └── script.js          # Lógica do Jogo
+```
+
+## 🌟 Melhorias Futuras
+
+- [ ] Adicionar diferentes níveis de dificuldade
+- [ ] Implementar sons e efeitos visuais
+- [ ] Mostrar um ranking de melhores pontuações (menor número de tentativas)
+
